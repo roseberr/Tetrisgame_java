@@ -2,8 +2,8 @@
 
 이 프로젝트는 테트리스 게임입니다
 ## 조작키
-- 방향키
-- space bar누를시 rotate
+- 방향키 왼쪽 오른쪽 아래
+- 스페이스바 누를시 rotate
 
 ## 구동 함수 기능 
 - 랜덤으로 블록 생성된다.
@@ -18,8 +18,9 @@
 
 ## tech stack
 
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=javat&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
 
+- jdk 8.0
 
 ## GUI 
 - swing GridLayout
@@ -30,5 +31,11 @@
 ###
 ###	연속된 한줄이 완성시 줄 삭제 후 한칸씩 내리기 
 ![그림2](https://user-images.githubusercontent.com/26202424/177023206-1bb5ddaf-0d9b-49f9-9049-dad82823360d.png)
+
+##실행화면
+- 8프레임 gif여서 끊겨보이는 현상이 발생한다. 
+- 실제 프로그램 동작시엔 부드럽게 움직인다.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/26202424/177025261-d90c032e-e4e8-46a6-8126-555e2840bfab.gif)
 
 
