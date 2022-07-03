@@ -23,7 +23,7 @@
 - jdk 8.0
 
 ## GUI 
-- swing GridLayout
+- Swing GridLayout
 
 ### 생성되는 랜덤 블록
 ![그림1](https://user-images.githubusercontent.com/26202424/177023112-1b2a617a-6026-482a-8459-346523454a0a.png)
